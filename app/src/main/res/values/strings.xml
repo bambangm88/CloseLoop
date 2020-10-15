@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CloseLoop</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="error">Gak ada jadwal di tanggal ini</string>
+    <string name="message_photo_taken">Photo Taken Successfully</string>
+
+    <string name="take_photo">Blink your eyes to capture photo</string>
+    <string name="permission_required">Permission Required</string>
+    <string name="permission_message">You must grant permission to access camera to run this application.</string>
+    <string name="permission_warning">All permissions are required.</string>
+
+    <string name="ok">OK</string>
+    <string name="permission_camera_rationale">Access to the camera is needed for detection</string>
+    <string name="no_camera_permission">This application cannot run because it does not have the camera permission.  The application will now exit.</string>
+    <string name="low_storage_error">Face detector dependencies cannot be downloaded due to low device storage</string>
+</resources>
